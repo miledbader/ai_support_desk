@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local secrets (keep the example available)
+.env
+.env.*
+!.env.example
+
+.pytest_cache/
+
+support_desk.db
